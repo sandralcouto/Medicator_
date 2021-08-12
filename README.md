@@ -9,16 +9,16 @@
 <p align="center">Saiba o preço do seu medicamento</p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/sandralcouto/medicator">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/sandralcouto/Medicator_">
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/sandralcouto/medicator">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/sandralcouto/Medicator_">
   
   <a href="https://github.com/EliasGcf/readme-template/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sandralcouto/medicator">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sandralcouto/Medicator_">
   </a>
   
   <a href="https://github.com/EliasGcf/readme-template/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/sandralcouto/medicator">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/sandralcouto/Medicator_">
   </a>
 </p>
 
